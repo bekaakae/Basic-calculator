@@ -43,21 +43,4 @@ Division by zero is prevented with a custom error message.
 📄 License
 This project is open-source and free to use for educational purposes.
 
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
-
-
-
-Tools
-
-
-
 ChatGPT can make mistakes. Check i
