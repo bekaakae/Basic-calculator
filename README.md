@@ -40,7 +40,4 @@ If the user enters an invalid operation, an error message is displayed.
 
 Division by zero is prevented with a custom error message.
 
-📄 License
-This project is open-source and free to use for educational purposes.
-
 ChatGPT can make mistakes. Check i
